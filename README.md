@@ -1,5 +1,5 @@
 # checkify
-
+[![Downloads](https://pepy.tech/badge/checkify/month)](https://pepy.tech/project/checkify)
 checkify is a Python package that utilizes the GPT API to check for errors in code and explain the code.
 
 ## Installation
