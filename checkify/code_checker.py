@@ -14,7 +14,7 @@ def check_code(code):
 
     # Call the GPT API to check the code and get the response
     response = openai.Completion.create(
-        engine='davinci-codex',
+        engine='davinci',
         prompt=code,
         max_tokens=100,
         n=1,

@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 setup(
     name='checkify',
-    version='0.4',
+    version='0.5',
     packages=['checkify'],
     install_requires=[
         'openai'
